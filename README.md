@@ -39,5 +39,5 @@ Para no consumir tus "minutos de construcción" en Netlify, usaremos el método 
 
 ## 📧 Nota sobre el Newsletter
 Recuerda que para que el formulario de suscripción funcione, debes haber configurado tu URL de Formspree en el archivo `components/Newsletter.tsx`.
-Sitio desplegado automáticamente con GitHub Actions 🚀Sitio
+Sitio desplegado automáticamente con GitHub Actions 🚀Sitio Que salga jajaj.
 
